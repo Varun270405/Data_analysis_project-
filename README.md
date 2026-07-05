@@ -1,6 +1,6 @@
-🚗 Electric Vehicle Adoption Analysis (EDA)
+##🚗 Electric Vehicle Adoption Analysis (EDA)
 
-📌 Overview
+##📌 Overview
 This project performs an **Exploratory Data Analysis (EDA)** on an Electric Vehicle (EV) Adoption dataset to identify the key factors influencing consumers' willingness to adopt electric vehicles. The analysis includes data cleaning, preprocessing, visualization, and business insights to support data-driven decision-making.
 
 ---
